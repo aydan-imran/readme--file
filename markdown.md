@@ -49,7 +49,7 @@ http://hacebook.com
 ### tast
 [x] task1  
 [x] tsk2  
-[x] task2
+[x]task2
 
 ### image
 <img src="./img/imran.jpg" width="200">
